@@ -44,11 +44,11 @@ Reproducing example 4-7 and screenshot of commiting those changes
 
 Adding the function of recording UofT email for Activity 4
 
-Screenshot of commit updating index.html
+Screenshot of commit updating hello.py
 
 ![image](part4c1.PNG)
 
-Screenshot of commit updating hello.py
+Screenshot of commit updating index.html
 
 ![image](part4c2.PNG)
 
