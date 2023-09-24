@@ -18,4 +18,12 @@ This repo is a clone of  https://github.com/miguelgrinberg/flasky
   
 ![image](part2.2.PNG)
 
-* 
+Screenshot of 1st commit of reproducing example 2-1 to set up the webpage
+
+![image](part2.3.PNG)
+
+Screenshot of 1st commit of reproducing example 2-2 to add dynamic route to print user name
+
+![image](part2.4.PNG)
+
+* Activity 3
