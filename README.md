@@ -35,3 +35,10 @@ Adding Navigation bar, Title and Time display system
 Screenshot of commit of updating hello.py 
 
 ![image](part3.1.PNG)
+
+* Activity 4
+
+Reproducing example 4-7 and screenshot of commiting those changes
+
+![image](part4.PNG)
+
