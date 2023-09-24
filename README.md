@@ -27,3 +27,11 @@ Screenshot of 1st commit of reproducing example 2-2 to add dynamic route to prin
 ![image](part2.4.PNG)
 
 * Activity 3
+
+Adding Navigation bar, Title and Time display system
+
+![image](part3.PNG)
+
+Screenshot of commit of updating hello.py 
+
+![image](part3.1.PNG)
