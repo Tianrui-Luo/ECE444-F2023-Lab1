@@ -19,7 +19,7 @@ Adding the greeting line on the title
 
 * Activity 4
 
-![image](4.1.PNG)
+![image](4.PNG)
 
 ![image](4.2.PNG)
 
