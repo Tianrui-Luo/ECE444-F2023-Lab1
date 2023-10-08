@@ -11,6 +11,11 @@ Successfully installed Docker
 
 * Activity 3
 
+Adding the greeting line on the title
+
+![image](3.1.PNG)
+
+![image](3.2.PNG)
 
 * Activity 4
 
