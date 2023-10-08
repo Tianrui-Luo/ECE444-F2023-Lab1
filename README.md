@@ -3,10 +3,11 @@
 Tianrui Luo
 
 
-
 * Activity 2
-  
 
+Successfully installed Docker
+  
+![image](2.PNG)
 
 * Activity 3
 
